@@ -5,6 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.example.zoo.IVetClinic;
 import org.example.zoo.VetClinic;
 import org.example.zoo.Zoo;
+
 @Configuration
 public class AppConfig {
 
